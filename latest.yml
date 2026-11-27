@@ -1,8 +1,8 @@
-version: 0.15.44
+version: 0.15.45
 files:
-  - url: MandalaCAD-Setup-0.15.44.exe
-    sha512: kFQPqP5r8mww37fNkdnHhnHPNODBq6k1bkazHm0v30lTZ0R7ixROSkEKx+6JV1nZdGXUCN498f3VoYRvSAQjoQ==
-    size: 79890451
-path: MandalaCAD-Setup-0.15.44.exe
-sha512: kFQPqP5r8mww37fNkdnHhnHPNODBq6k1bkazHm0v30lTZ0R7ixROSkEKx+6JV1nZdGXUCN498f3VoYRvSAQjoQ==
-releaseDate: '2026-11-26T23:08:39.777Z'
+  - url: MandalaCAD-Setup-0.15.45.exe
+    sha512: V7UHx8ALrJXdxmqGYzNxiy88/NI84dshPKpUAtOyQPCL44lupHF5xjndMLOH3TmBaMMGbTz72DA4Ro4oYS62Zg==
+    size: 79891387
+path: MandalaCAD-Setup-0.15.45.exe
+sha512: V7UHx8ALrJXdxmqGYzNxiy88/NI84dshPKpUAtOyQPCL44lupHF5xjndMLOH3TmBaMMGbTz72DA4Ro4oYS62Zg==
+releaseDate: '2026-11-27T07:22:36.420Z'
